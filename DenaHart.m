@@ -1,4 +1,9 @@
 function [T0Tn,entities] = DenaHart(alpha, d, theta, r)
+%% Creator: Swaminath Venkateswaran, ESILV Engineering School, Paris, France %%
+%% A function 'DenaHart.m' to compute the homogeneous transformation matrix of a given serial robot
+% INPUT(S)     : alpha,d ,theta,r - The four modified DH parameters (in the form of a row vector)
+% OUTPUT(S)    : T0Tn - The resultant homogenous transformation matrix, entities - The intermediate transformation matrices
+%%
 
 entities = struct();
 
