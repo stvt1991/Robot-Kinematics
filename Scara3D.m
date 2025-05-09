@@ -1,4 +1,5 @@
 function pl = Scara3D(L1,L2,theta1, theta2, rho, theta4)
+%% Creator: Swaminath Venkateswaran, ESILV Engineering School, Paris, France %%
 %% A function named Scara3D used to generate the DH model of the SCARA robot in 3D space %%
 % INPUT(S):  L1,L2: Length of the two links
 %            theta1, theta2, theta4: The three revolute angles
