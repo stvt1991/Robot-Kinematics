@@ -1,4 +1,5 @@
 function RRP3D(th1,th2,rho2)
+%% Creator: Swaminath Venkateswaran, ESILV Engineering School, Paris, France %%
 %% A function named RRP3D used to generate the DH model of the RRP robot in 3D space %%
 % INPUT(S):  th1, th2: The three revolute angles
 %            rho: The prismatic link 
