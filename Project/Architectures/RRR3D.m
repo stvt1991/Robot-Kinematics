@@ -1,4 +1,5 @@
 function RRR3D(th1,th2,th3)
+%% Creator: Swaminath Venkateswaran, ESILV Engineering School, Paris, France %%
 %% A function named RRR3D used to generate the DH model of the RRR robot in 3D space %%
 % INPUT(S):  th1, th2, th3: The three revolute angles     
 % OUTPUT(S): NIL- But outputs can be added if required by user
